@@ -69,5 +69,5 @@ for (subject in unique(data$subject_id)) {
 	}
 }
 #names(tidy) <- c("subject_id","activity_name","variable","average")
-
+write.table(tidy,"tidy.txt",row.name=FALSE)
 
