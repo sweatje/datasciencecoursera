@@ -1,0 +1,7 @@
+This file is expanded to the long format in 4 colunms
+
+subject_id: the subject_id from the test and trial folders
+activity_name: the name referenced by the acitivity_id in the test and trial folders
+variable: which mean or std variable is the subject of this row
+average: the average value for the combination of subject_id, activity_name and variable
+
